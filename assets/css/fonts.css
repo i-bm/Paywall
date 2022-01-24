@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Barlow Semi Condensed';
+    src: url('../font/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    src: url('../font/Fira_Sans/FiraSans-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    src: url('../font/Fira_Sans/FiraSans-Medium.ttf');
+    font-weight: 500;
+}
